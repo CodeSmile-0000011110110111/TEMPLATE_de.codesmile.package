@@ -1,2 +1,6 @@
-# TEMPLATE_de.codesmile.package
-Template repository for my Unity packages
+# CodeSmile ???
+
+TBD
+
+- Steffen aka CodeSmile
+- [Email](mailto:steffen@steffenitterheim.de) / [Discord](https://discord.gg/JN3Jz8qkeV)
