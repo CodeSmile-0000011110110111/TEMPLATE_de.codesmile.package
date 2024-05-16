@@ -5,7 +5,8 @@
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
         "Unity.PerformanceTesting",
-		"CodeSmile.Tests"
+		"CodeSmile.RENAME",
+		"CodeSmile.Tests.RENAME"
     ],
     "includePlatforms": [
         "Editor"

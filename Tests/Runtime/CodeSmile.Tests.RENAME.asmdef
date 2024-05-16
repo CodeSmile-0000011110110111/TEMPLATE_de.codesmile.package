@@ -3,7 +3,8 @@
     "rootNamespace": "CodeSmile.Tests",
     "references": [
         "UnityEngine.TestRunner",
-        "Unity.PerformanceTesting"
+        "Unity.PerformanceTesting",
+		"CodeSmile.RENAME"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
